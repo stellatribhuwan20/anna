@@ -14,7 +14,7 @@ body {
     margin-top: var(--bs-gutter-y);
 }
   .banner_home{
-    height: 75vh;
+    height: 75vh!important;
     padding: 30px;
     padding-top: 50px;
   }
